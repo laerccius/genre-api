@@ -1,0 +1,14 @@
+{
+  "service": {
+    "name": "genre-api",
+    "port": 80,
+    "tags": ["web", "application", "urlprefix-/genre-api"],
+    "check": {
+      "id": "genre_api_status",
+      "name": "Genre Api Status",
+      "tcp": "localhost:80",
+      "interval": "30s",
+      "timeout": "20s"
+    }
+  }
+}

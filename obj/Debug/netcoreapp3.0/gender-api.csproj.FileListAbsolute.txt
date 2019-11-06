@@ -1,0 +1,59 @@
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\appsettings.json
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.exe
+E:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.deps.json
+E:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.runtimeconfig.json
+E:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.runtimeconfig.dev.json
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.pdb
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.csprojAssemblyReference.cache
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\staticwebassets\gender-api.StaticWebAssets.Manifest.cache
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\staticwebassets\gender-api.StaticWebAssets.xml
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.MvcApplicationPartsAssemblyInfo.cache
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.AssemblyInfoInputs.cache
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.AssemblyInfo.cs
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.RazorTargetAssemblyInfo.cache
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.dll
+e:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.pdb
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\DnsClient.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+e:\Projetos\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\SharpCompress.dll
+E:\Projetos\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.csproj.CopyComplete
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\appsettings.json
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.exe
+E:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.deps.json
+E:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.runtimeconfig.json
+E:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.runtimeconfig.dev.json
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\gender-api.pdb
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Consul.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\DnsClient.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\SharpCompress.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+e:\My Projects\tcd_microservices\gender-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.csprojAssemblyReference.cache
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\staticwebassets\gender-api.StaticWebAssets.Manifest.cache
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\staticwebassets\gender-api.StaticWebAssets.xml
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.MvcApplicationPartsAssemblyInfo.cache
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.AssemblyInfoInputs.cache
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.AssemblyInfo.cs
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.RazorTargetAssemblyInfo.cache
+E:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.csproj.CopyComplete
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.dll
+e:\My Projects\tcd_microservices\gender-api\obj\Debug\netcoreapp3.0\gender-api.pdb
